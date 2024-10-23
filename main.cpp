@@ -11,10 +11,9 @@ int main()
     {
         // Update
         snake_game.update();
-
         // Render
         snake_game.render();
-        }
+    }
 
     // End of Application
     return 0;
